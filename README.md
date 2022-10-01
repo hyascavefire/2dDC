@@ -1,2 +1,2 @@
-# 2dgaming
-Basic study of 2d gaming
+# 2dDC / 2D Dungeon Crawler
+realtime final fantasy tactics
